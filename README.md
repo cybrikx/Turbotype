@@ -2,7 +2,7 @@
 
 `Turbotype` is a stylish, browser-based tool to measure and improve your typing skills. Built with HTML, CSS, and JavaScript, it features a sleek neon-gradient design and real-time performance tracking—no server needed!
 
-`👉 Live Demo:` https://cybrikx.github.io/Turbotype/
+`👉 Live Demo:` https://waqarro.github.io/Turbotype/
 
 `Last Updated:` Saturday, May 17, 2025, 10:51 PM +08
 
@@ -24,7 +24,7 @@
 
 1. `Clone the repository:`
    ```bash
-   git clone https://github.com/cybrikx/Turbotype.git
+   git clone https://github.com/waqarro/Turbotype.git
    ```
 
 2. `Navigate to the project folder and open index.html` in any modern browser (e.g., Chrome, Firefox, Edge).
@@ -56,4 +56,5 @@
 
 `Created with passion by Waqar Ahmad.` Follow his journey on Instagram `@waqarro1`.
 
-`Built with ❤️ by the cybrikx team.`
+`Built with ❤️ by the waqarro team.`
+
